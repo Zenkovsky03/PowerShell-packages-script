@@ -2,15 +2,7 @@
 
 <img src="https://community.chocolatey.org/content/images/global-shared/logo-square.svg" width="100"> 
 
-_A [Powershell](https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.1) script to install a list of programs automatically using [Chocolatey](https://chocolatey.org/) as package manager_<br>
-By default, the script installs (for BAWI):
-* PyCharm-community 2022.1.4
-* python3 3.10.5
-* mysql-python 8.0.30
-* cx_Oracle 8.3.0
-* Ptable 0.9.2
-* pyodbc 4.0.34
-* requests 2.28.1
+_A [Powershell](https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.1) script to install a list of programs automatically using [Chocolatey](https://chocolatey.org/) as package manager_
 <br>
 <br>
 
@@ -43,3 +35,12 @@ When it finishes executing, run this script to maintain your computer's security
 ```ps1
 Set-ExecutionPolicy AllSigned 
 ``` 
+## INFORMATIO
+By default, the script installs (for BAWI):
+* PyCharm-community 2022.1.4
+* python3 3.10.5
+* mysql-python 8.0.30
+* cx_Oracle 8.3.0
+* Ptable 0.9.2
+* pyodbc 4.0.34
+* requests 2.28.1
