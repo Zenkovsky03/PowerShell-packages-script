@@ -2,7 +2,7 @@
 
 <img src="https://community.chocolatey.org/content/images/global-shared/logo-square.svg" width="100"> 
 
-_A [Powershell](https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.1) script to install a list of programs automatically using [Chocolatey](https://chocolatey.org/) as package manager_
+_A [Powershell](https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.1) script to install a list of programs automatically using [Chocolatey](https://chocolatey.org/) as package manager_<br>
 By default, the script installs (for BAWI):
 * PyCharm-community 2022.1.4
 * python3 3.10.5
