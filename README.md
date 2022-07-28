@@ -15,7 +15,7 @@ Set-ExecutionPolicy Bypass
 <br>
 
 ## Choosing packages
-_To find the name of the packages you want, search [here ](https://community.chocolatey.org/packages)_
+_To find the name of the packages you want, search [here ](https://community.chocolatey.org/packages)_<br>
 ![](exemple.gif)
 
 >After finding all the desired packages, put them on the _**package_list.json**_ file
