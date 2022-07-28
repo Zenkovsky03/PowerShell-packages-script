@@ -35,4 +35,3 @@ When it finishes executing, run this script to maintain your computer's security
 ```ps1
 Set-ExecutionPolicy AllSigned 
 ``` 
-
