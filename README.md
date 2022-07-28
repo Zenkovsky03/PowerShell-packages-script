@@ -24,8 +24,9 @@ _To find the name of the packages you want, search [here ](https://community.cho
 <br>
 
 ## Running 
-In Powershell, go to the project folder, type ```.\run.ps1``` and press enter.
-
+1. In Powershell (as an administrator), go to the project folder, type ```.\run.ps1``` and press enter.
+2. When the script has finished running, close the terminal.
+3. Then In Powershell (as an administrator), go to the project folder, type ```.\run2.ps1``` and press enter.
 <br>
 
 
