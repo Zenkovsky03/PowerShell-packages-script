@@ -1,4 +1,4 @@
-# Powershell Automatic Installation
+# Powershell Packages Installation
 
 <img src="https://community.chocolatey.org/content/images/global-shared/logo-square.svg" width="100"> 
 
